@@ -1,7 +1,7 @@
 body {
    
 
-    color: deeppink;
+    color: lightcoral;
     text-align: center;
     font-family: arial;
     margin: 0;
@@ -13,7 +13,7 @@ body {
 
 .container {
     width: 70%;
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 1em;
     text-align: left;
     margin: 10px auto;
